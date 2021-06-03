@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteCRUD</string>
+    <string name="salaryCol">\"    salary double NOT NULL\n\"</string>
+    <array name="department">
+        <item>Technical</item>
+        <item>Support</item>
+        <item>Research and Development</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </array>
+</resources>
